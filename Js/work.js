@@ -106,7 +106,7 @@ function displayMenuButtons(menu) {
       categories.push(itemOne);
     });
   });
-
+  categories.sort();
   categories = ["All", ...new Set(categories)];
 
   //adding category buttons
