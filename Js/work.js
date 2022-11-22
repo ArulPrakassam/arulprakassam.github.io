@@ -59,7 +59,7 @@ function displayMenuItems(menuItems) {
       return `<span class="tag">${tagItems}</span>`;
     });
 
-    tags = tags.join("");
+    tags = tags.join(" ");
 
     //used to create html
     return `<a href=${item.link} target="_blank">
@@ -81,7 +81,7 @@ function displayMenuItems(menuItems) {
           </article></a
         >`;
   });
-  displayMenu = displayMenu.join("");
+  displayMenu = displayMenu.join(" ");
   projectPage.innerHTML = displayMenu;
 }
 
@@ -114,7 +114,7 @@ function displayMenuButtons(menu) {
     .map(function (category) {
       return ` <button class="filter-btn" type="button" data-id='${category}'>${category}</button>`;
     })
-    .join("");
+    .join(" ");
 
   buttonContainer.innerHTML = categoryBtns;
 

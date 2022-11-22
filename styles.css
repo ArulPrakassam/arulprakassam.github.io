@@ -373,7 +373,6 @@ nav {
 .skill-section article {
   margin: 20px;
   padding: 5px;
-  text-align: center;
   border: 2px solid var(--light);
   border-radius: 30px;
   min-width: 433px;
@@ -387,7 +386,15 @@ nav {
   padding: 10px;
   border-radius: 15px;
 }
-.skill-section article h4 {
+/* .development {
+  max-width: 500px;
+} */
+.development-title,
+.marketing-title {
+  text-align: center;
+}
+.development-title h4,
+.marketing-title h4 {
   padding: 10px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -395,102 +402,45 @@ nav {
   font-size: 1.2rem;
   color: var(--secondary);
 }
+
 .skill-items {
+  display: flex;
+  flex-wrap: wrap;
   padding: 10px;
 }
 .skill-item {
-  font-family: var(--font-family2);
-  color: var(--light);
-  text-transform: capitalize;
-  text-align: left;
   padding: 10px;
+}
+.skill-item span {
+  font-family: var(--font-family2);
+  text-transform: capitalize;
   font-size: 1rem;
   letter-spacing: 1px;
 }
-.skill-item::after {
-  content: "";
-  background-color: rgba(0, 0, 0, 0.19);
-  padding: 10px 50px 5px 50px;
-  display: block;
-  border-radius: 50px;
-  position: relative;
+.skill-one {
+  font-size: 2rem;
 }
 
-.one {
-  padding: 10px 3rem 5px 5rem;
-}
-
-.two {
-  padding: 10px 3rem 5px 3.5rem;
-}
-.three {
-  padding: 10px 2rem 5px 3rem;
-}
-.four {
-  padding: 10px 2rem 5px 2rem;
-}
-.five {
-  padding: 10px 4rem 5px 5rem;
-}
-.six {
-  padding: 10px 3.5rem 5px 3.5rem;
-}
-.seven {
-  padding: 10px 4.2rem 5px 4rem;
-}
-.one,
-.two,
-.three,
-.four,
-.five,
-.six,
-.seven {
-  background-color: black;
-  border-radius: 50px;
-  position: absolute;
-}
-.one-percent {
-  padding: 1rem;
-}
-.two-percent {
-  padding: 1rem;
-}
-.three-percent {
-  padding: 1rem;
-}
-.four-percent {
-  padding: 3rem;
-}
-.five-percent {
-  padding: 1rem;
-}
-.six-percent {
-  padding: 4rem;
-}
-.seven-percent {
-  padding: 0.5rem;
-}
-.one-percent,
-.two-percent,
-.three-percent,
-.four-percent,
-.five-percent,
-.six-percent,
-.seven-percent {
-  font-style: italic;
-  color: var(--light);
-  font-family: var(--font-family3);
-}
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 650px) {
   .skill-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    align-items: center;
+    justify-content: space-between;
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 500px));
+    gap: 15px;
+    justify-items: center;
+    align-items: center; */
+  }
+  .development,
+  .marketing {
+    flex: 1;
   }
 }
 @media screen and (max-width: 469px) {
   .skill-section article {
-    min-width: 300px;
+    min-width: 200px;
   }
 }
 /* skill section end*/
