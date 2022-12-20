@@ -421,6 +421,10 @@ nav {
   font-size: 2rem;
 }
 
+.skill-item img {
+  width: 2rem;
+}
+
 @media screen and (min-width: 650px) {
   .skill-container {
     display: flex;
