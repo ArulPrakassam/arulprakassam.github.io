@@ -69,8 +69,8 @@ const displayData = (data) => {
           <article class="project-container">
             <div class="img-container">
               <img
-                src=${img}
-                alt=${title}
+                src="${img}"
+                alt="${title}"
               />
             </div>
             <div class="project-content">
