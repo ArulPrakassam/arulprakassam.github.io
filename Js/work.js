@@ -66,8 +66,8 @@ function displayMenuItems(menuItems) {
           <article class="project-container">
             <div class="img-container">
               <img
-                src=${item.img}
-                alt=${item.title}
+                src="${item.img}"
+                alt="${item.title}"
               />
             </div>
             <div class="project-content">
