@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bookmyshow clone",
+    "link": "https://bookmyshow-clone-project.netlify.app/",
+    "tags": ["HTML", "CSS", "JS"],
+    "category": ["HTML & CSS", "JS"],
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBkt7r2YosO23VJ5LrMOncwHJZbOgHgpOgIhIU28Hkr1a5Xl8XUicVdd9TmMAv7YD2zvN6RRL5yYk3WGN39npop5WBW7WS5MLu4e5ehUHHOxmcX0AFiZ-PB1p0x6-qlk47qPuVjxWynXFHK56Jfz3oMG0JtzmRZ1rg34TQEnwabPhy3Tyq5MbgMa-w/s1200/bookmyshow-logo.png"
+  },
+  {
     "title": "Frontend Web developer",
     "link": "https://frontend-web-developer.netlify.app/",
     "tags": ["HTML", "CSS", "Bootstrap"],
