@@ -71,6 +71,7 @@ const displayData = (data) => {
               <img
                 src="${img}"
                 alt="${title}"
+                loading="lazy"
               />
             </div>
             <div class="project-content">

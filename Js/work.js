@@ -68,6 +68,7 @@ function displayMenuItems(menuItems) {
               <img
                 src="${item.img}"
                 alt="${item.title}"
+                loading="lazy"
               />
             </div>
             <div class="project-content">
