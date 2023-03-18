@@ -1,73 +1,80 @@
 [
   {
+    "title": "Mapbox maps Project",
+    "link": "https://accident-blackspots.vercel.app/",
+    "tags": ["Next JS"],
+    "category": ["Next JS"],
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124175/Arul/next-js-logo.png"
+  },
+  {
     "title": "Gallery Search App",
     "link": "https://imagegallery-search-app.netlify.app/",
     "tags": ["HTML", "CSS", "JS"],
     "category": ["HTML & CSS", "JS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLvcUByYR7wZJ5Lt0wRXcTVVTLVDpxM5GiKO5OK5z4P9zStpgt7bcL6Al4YApkjLvmLHjAjhy1DuG4SXtX9DRWHiZRSpjjMlHDYNypfBZrApw1VRLUhbWcH2jOl2pDVQUhYEJxa_-reUilxYVoHXy7W_afCfGPaesYRvdx6N-yZ_a7BsL0bGAGfjHt/s1280/javascript.webp"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124255/Arul/javascript.jpg"
   },
   {
     "title": "Bookmyshow clone",
     "link": "https://bookmyshow-clone-project.netlify.app/",
     "tags": ["HTML", "CSS", "JS"],
     "category": ["HTML & CSS", "JS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBkt7r2YosO23VJ5LrMOncwHJZbOgHgpOgIhIU28Hkr1a5Xl8XUicVdd9TmMAv7YD2zvN6RRL5yYk3WGN39npop5WBW7WS5MLu4e5ehUHHOxmcX0AFiZ-PB1p0x6-qlk47qPuVjxWynXFHK56Jfz3oMG0JtzmRZ1rg34TQEnwabPhy3Tyq5MbgMa-w/s1200/bookmyshow-logo.png"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124333/Arul/bookmyshow-logo.png"
   },
   {
     "title": "Frontend Web developer",
     "link": "https://frontend-web-developer.netlify.app/",
     "tags": ["HTML", "CSS", "Bootstrap"],
     "category": ["HTML & CSS", "Bootstrap"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDgnWH80yE26wop9H3T3GRAeROYK4L_NROhrdTXVdy6rOCmVTU0OZgev18sxRX1BPus9L09JBtqlaQONhKCYTcvTAcV_DMMhbBV2LSOOV61BPpU5fTqyV0CwG1aH8Y0OOWuAmXgu1LRxYZOUd0bLIh0UlzHMYScbPk5oI7FK-GIlwI4vscjqZZzfAr/s1280/bootstrap.png"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124370/Arul/bootstrap.png"
   },
   {
     "title": "Blogger Sitemap",
     "link": "https://www.switch2knowledge.com/p/site-map.html",
     "tags": ["JS"],
     "category": ["JS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLvcUByYR7wZJ5Lt0wRXcTVVTLVDpxM5GiKO5OK5z4P9zStpgt7bcL6Al4YApkjLvmLHjAjhy1DuG4SXtX9DRWHiZRSpjjMlHDYNypfBZrApw1VRLUhbWcH2jOl2pDVQUhYEJxa_-reUilxYVoHXy7W_afCfGPaesYRvdx6N-yZ_a7BsL0bGAGfjHt/s1280/javascript.webp"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124255/Arul/javascript.jpg"
   },
   {
     "title": "Age calculator",
     "link": "https://age-calculator-project.netlify.app/",
     "tags": ["JS"],
     "category": ["JS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLvcUByYR7wZJ5Lt0wRXcTVVTLVDpxM5GiKO5OK5z4P9zStpgt7bcL6Al4YApkjLvmLHjAjhy1DuG4SXtX9DRWHiZRSpjjMlHDYNypfBZrApw1VRLUhbWcH2jOl2pDVQUhYEJxa_-reUilxYVoHXy7W_afCfGPaesYRvdx6N-yZ_a7BsL0bGAGfjHt/s1280/javascript.webp"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124255/Arul/javascript.jpg"
   },
   {
     "title": "Mini Math Calculator",
     "link": "https://mini-math-calculator.netlify.app/",
     "tags": ["JS"],
     "category": ["JS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLvcUByYR7wZJ5Lt0wRXcTVVTLVDpxM5GiKO5OK5z4P9zStpgt7bcL6Al4YApkjLvmLHjAjhy1DuG4SXtX9DRWHiZRSpjjMlHDYNypfBZrApw1VRLUhbWcH2jOl2pDVQUhYEJxa_-reUilxYVoHXy7W_afCfGPaesYRvdx6N-yZ_a7BsL0bGAGfjHt/s1280/javascript.webp"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124255/Arul/javascript.jpg"
   },
   {
     "title": "Mobile Planetarium",
     "link": "https://mobile-planetarium.netlify.app/",
     "tags": ["HTML", "CSS"],
     "category": ["HTML & CSS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2w7dcXwlP_CDIKhA8Uvlgx_ef_XT2LjGe1bCMrs4QbEccY6rUrvOO36rCxlDU8B8dwPTcilPHihJw2b8VKReksMpGdnWHMqOuC6Ub7Jo-AlJZ4LwL8vJeQ6q_s6SN9qR_COmVu4JfNYFFWYgKyULX2nJN0cCa7FKwZD0hvxLWmKuNC-2lx4H4btNO/s1436/Mobile%20Planetarium.webp"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124408/Arul/Mobile_Planetarium.jpg"
   },
   {
     "title": "HTML CSS FORM",
     "link": "https://html-css-form-project.netlify.app/",
     "tags": ["HTML", "CSS", "JS"],
     "category": ["HTML & CSS", "JS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvXzQexqtvpWiIfomKNCi-On5VVrsWt71gbeFK_w7uRnJfzdvMH_GsGf-3hwMNr-dx52aD9JLcEGfr7Wk1NLQkU0mS35AkZXPB5p2gspBBGhsDCx7YPH12cbYRwFpXTK5a-PHVMsAsPR58pjlO64YYPis209wykCDVT-bCYymxZvtRt3bU6PeLASGJ/s1440/HTML%20CSS%20FORM.webp"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124450/Arul/HTML_CSS_FORM.jpg"
   },
   {
     "title": "Arul Prakassam Portfolio",
     "link": "https://arulprakassam.github.io/",
     "tags": ["HTML", "CSS", "JS"],
     "category": ["HTML & CSS", "JS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjls9IJj2rRgP41TVyRBQkJHksfNIAi585EqOaP4Dj0SCfautkgc-ZQqb12GbKDOTDu-vUdN_bOHuP2CSzzGC_M4Xk0eJhPBMt9QvMvF6rPKzBZDSV-iSv9Q9V1g8mL5y4n7LI6ibnGrPvTIruJzvDPAC778Hf-63dpdVKCXqxhq5jem7KqrZ8Lcx0a/s1417/Arul-Prakassam-portfolio.jpg"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124488/Arul/Arul-Prakassam-portfolio.jpg"
   },
   {
     "title": "SEO Agency",
     "link": "https://seo-agency-project.netlify.app/",
     "tags": ["HTML", "CSS"],
     "category": ["HTML & CSS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC0sXQSfrTqiyyh9Ll4zz1CWTgBLnVqh-CNsa5Y8R-1GJ5C3VgXzbyMwv4mthqwYcQi7kCjE1DoN8qdNbBzAiJBzp8ws6AdAn4pJE_G9j-0B4UtqqIYB_zMAahBSPDQ9TOdmO4prGm7IRqoN5rE4nupBlMT7t0eBmuaDu0c5j2Gzv9wiDykYDTdWG6/s1422/SEO-agency-html-css-project.jpg"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124514/Arul/SEO-agency-html-css-project.jpg"
   },
 
   {
@@ -75,7 +82,14 @@
     "link": "https://arul-portfolio-project.netlify.app/",
     "tags": ["HTML", "CSS"],
     "category": ["HTML & CSS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd8bY8W-qzNg9wKDBGtxcVVjKLnFd59E-yMAP57b081VCPRN4GqrSGGJhyB2vy4WT3eRm_HD_ZGj6Swi7HFp_FDqAOl8VpaEADc3oePxqL1qZJrXu5MICenlrPqbmEm39KmlcbAKCw99u8otUO7vYV-Tb05g-Pky-9qisZUjJjX6c2o6ngt2zJ5-Mt/s1421/simple-portfolio-html-css-project.jpg"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124540/Arul/simple-portfolio-html-css-project.jpg"
+  },
+  {
+    "title": "GPA & CGPA CALCULATOR",
+    "link": "https://gpa-cgpa-calculator-project.netlify.app/",
+    "tags": ["JS"],
+    "category": ["JS"],
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124606/Arul/gpa-cgpa-calculator.jpg"
   },
 
   {
@@ -83,7 +97,7 @@
     "link": "https://www.switch2knowledge.com/",
     "tags": ["Content Writing", "SEO"],
     "category": ["Content Writing", "SEO"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXK41QWzZrDqI_Pf3ek86h4uxko4_fw3OSJ-aCvMK6_lcfIX_fZOxY8xQy2sQqhc8mb3gYaPNpzq2O_eMHif4VPoVlkB1CdvqNCGVx6nwQ5RfjY2PHa8a36DJcsH7nvWexB_F2MYRWQ4RESDNxrOJqzi0ZU1bytXbO_bhYGyIMtSZdXcILRcklLRDJ/s758/Switch2knowledge-website.jpg"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679131526/switch2knowledge-website.png"
   },
 
   {
@@ -91,15 +105,9 @@
     "link": "https://www.youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw",
     "tags": ["YouTube"],
     "category": ["YouTube"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXLSQgir1LR15TefD9XsxSqCyIuTf7h9g4aREXf8hhm0_EQJEsXRC5FCmpd87V8BFSVHXTfoc1ypuww8gwuY2Gh1iQ-vdrHmwvNuveYnc9KzVxSFGRYZMmJnoYA2zLbvAgQ5kUS0e9a5m2V5fED-QGIfvaAQ3PqM-JbTqnCX8abmPwoyn94VJwXxNX/s758/Switch2knowledge-youtube-channel.jpg"
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679131946/switch2knowledge-youtube.png"
   },
-  {
-    "title": "GPA & CGPA CALCULATOR",
-    "link": "https://gpa-cgpa-calculator-project.netlify.app/",
-    "tags": ["JS"],
-    "category": ["JS"],
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVt3cwdUKI7CD92i7hZYY5h9tU5NDb35w15lbr-BW7G9PW88EHiD6qEAHw0qNTkFdaUZHPApAl3utznton_68UT8ejzQqwxQ4Y8hUibC42__9rBK_Gpkk5uRQ6YpmyWLhmGM4p57NKbu433-A8zPiJL1qq8UYf-7wLDXM4Ede1mc5Awvk1DGsiSxSI/s1424/gpa-cgpa-calculator.jpg"
-  },
+
   {
     "title": "How to create subdomains in Google doamins?",
     "link": "https://www.youtube.com/watch?v=1CxeesX1Ybg",
