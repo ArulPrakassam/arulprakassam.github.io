@@ -27,7 +27,13 @@
     "category": ["JS"],
     "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124255/Arul/javascript.jpg"
   },
-
+  {
+    "title": "React Mini projects",
+    "link": "https://react-miniprojects.netlify.app/",
+    "tags": ["React"],
+    "category": ["React"],
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1686903321/Arul/reactjs-logo.png"
+  },
   {
     "title": "Frontend Web developer",
     "link": "https://frontend-web-developer.netlify.app/",
