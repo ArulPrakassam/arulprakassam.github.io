@@ -21,6 +21,14 @@
     "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124333/Arul/bookmyshow-logo.png"
   },
   {
+    "title": "JS Mini projects",
+    "link": "https://javascript-miniprojects.netlify.app/",
+    "tags": ["JS"],
+    "category": ["JS"],
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1679124255/Arul/javascript.jpg"
+  },
+
+  {
     "title": "Frontend Web developer",
     "link": "https://frontend-web-developer.netlify.app/",
     "tags": ["HTML", "CSS", "Bootstrap"],
