@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hungrezy",
+    "link": "https://hungrezy-app.netlify.app/",
+    "tags": ["React"],
+    "category": ["React"],
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1686903321/Arul/reactjs-logo.png"
+  },
+  {
     "title": "Mapbox maps Project",
     "link": "https://accident-blackspots.netlify.app/",
     "tags": ["Next JS"],
