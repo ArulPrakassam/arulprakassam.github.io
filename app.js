@@ -34,10 +34,13 @@ contact.addEventListener("click", () => {
   modal.style.display = "grid";
   document.documentElement.style.setProperty("overflow", "hidden");
 });
-contactBtn.addEventListener("click", () => {
-  modal.style.display = "grid";
-  document.documentElement.style.setProperty("overflow", "hidden");
-});
+if (contactBtn) {
+  contactBtn.addEventListener("click", () => {
+    modal.style.display = "grid";
+    document.documentElement.style.setProperty("overflow", "hidden");
+  });
+}
+
 closeModal.addEventListener("click", () => {
   modal.style.display = "none";
   document.documentElement.style.removeProperty("overflow");
