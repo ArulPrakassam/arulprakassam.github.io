@@ -1,4 +1,3 @@
+# Arul Prakassam G - Portfolio
 
-Arul Prakassam G - Portfolio 
-
-[Portfolio](https://arulprakassam.github.io/)
+[Portfolio Link](https://arulprakassam.github.io/)

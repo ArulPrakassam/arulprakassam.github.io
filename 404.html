@@ -2,131 +2,156 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Error</title>
+    <title>Error - 404</title>
     <!-- favicon -->
     <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon" />
-    <!-- style sheet -->
+    <!-- css -->
     <link rel="stylesheet" href="styles.css" />
     <!-- fontawesome -->
-    <script
-      defer
-      src="https://use.fontawesome.com/releases/v6.1.1/js/all.js"
-      integrity="sha384-xBXmu0dk1bEoiwd71wOonQLyH+VpgR1XcDH3rtxrLww5ajNTuMvBdL5SOiFZnNdp"
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
       crossorigin="anonymous"
-    ></script>
+      referrerpolicy="no-referrer"
+    />
   </head>
   <body>
-    <!-- nav section start -->
+    <!-- buffer loading -->
+    <div class="buffer">
+      <div class="buffer-loading"></div>
+    </div>
 
-    <nav>
-      <div class="nav-center">
-        <!-- nav header -->
-        <div class="nav-header">
-          <div class="logo"><a href="/">Arul Prakassam</a></div>
-          <button class="nav-toggle">
-            <i class="fas fa-bars"></i>
-          </button>
+    <!-- modal content -->
+    <section class="modal-content">
+      <div class="modal-container">
+        <!-- modal header -->
+        <div class="modal-header">
+          <h1>Contact</h1>
+          <span class="close-modal"><i class="fa fa-times"></i></span>
         </div>
-        <!-- links -->
-        <ul class="nav-links">
-          <li><a href="/" class="nav-single-link">Home</a></li>
-          <li><a href="works.html" class="nav-single-link">Works</a></li>
-          <li><a href="about-me.html" class="nav-single-link">About me</a></li>
-          <li><a href="contact.html" class="nav-single-link">Contact</a></li>
-        </ul>
-        <!-- social media -->
-        <ul class="nav-social-links">
-          <li>
-            <a href="https://www.switch2knowledge.com/" target="_blank">
-              <i class="fa fa-globe nav-social-media-icons"></i>
+        <!-- modal contact -->
+        <div class="modal-contact">
+          <!-- modal email contact -->
+          <div class="modal-email-contact">
+            <a href="mailto:arulprakassam2020@gmail.com">
+              <p class="email-icon"><i class="fa fa-envelope"></i></p>
+              <p class="email-text">Email</p>
             </a>
-          </li>
-          <li>
-            <a
-              href="https://www.youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw"
-              target="_blank"
-            >
-              <i class="fab fa-youtube nav-social-media-icons"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/ArulPrakassam" target="_blank">
-              <i class="fa-brands fa-github nav-social-media-icons"></i>
-            </a>
-          </li>
-
-          <li>
+          </div>
+          <p class="alter-method-text">or connect by social media</p>
+          <!-- modal social media contact -->
+          <div class="social-media-contact">
             <a
               href="https://www.linkedin.com/in/arul-prakassam"
               target="_blank"
             >
-              <i class="fa-brands fa-linkedin-in nav-social-media-icons"></i>
+              <i class="fa-brands fa-linkedin modal-social-icon"></i>
             </a>
-          </li>
-          <li>
             <a href="https://twitter.com/ArulPrakassam" target="_blank">
-              <i class="fa-brands fa-twitter nav-social-media-icons"></i>
+              <i class="fa-brands fa-square-x-twitter modal-social-icon"></i>
             </a>
-          </li>
-          <li>
-            <a href="https://www.quora.com/Arul-Prakassam-G" target="_blank">
-              <i class="fa-brands fa-quora nav-social-media-icons"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.facebook.com/ArulPrakassam" target="_blank">
-              <i class="fa-brands fa-facebook-f nav-social-media-icons"></i>
-            </a>
-          </li>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- navbar -->
+    <nav class="navbar">
+      <div class="logo">
+        <a href="/">
+          <h1>Arul Prakassam</h1>
+        </a>
+      </div>
+      <div class="asidebar">
+        <button class="close-icon">
+          <i class="fa fa-times"></i>
+        </button>
+        <ul class="nav-links">
+          <a href="/">
+            <li>Home</li>
+          </a>
+          <a href="#about">
+            <li>About</li>
+          </a>
+          <a href="#projects">
+            <li>Projects</li>
+          </a>
+          <li id="contact">Contact</li>
         </ul>
       </div>
+
+      <button class="toggle-icon">
+        <i class="fas fa-stream"></i>
+      </button>
     </nav>
 
-    <!-- nav section end -->
-
-    <!-- Error section start -->
-
+    <!-- 404 section -->
     <section class="error-page">
       <div class="error-content">
         <img src="./assets/404.svg" alt="404 error" />
-        <h1>404</h1>
-        <h5>page not found</h5>
+        <a href="/"><button class="back-to-home">Back to Home</button></a>
       </div>
     </section>
-
-    <!-- Error section end -->
 
     <!-- footer section -->
-    <section class="footer-section">
-      <div class="footer-center">
-        <div class="logo"><a href="/">Arul Prakassam</a></div>
-        <ul class="footer-links">
-          <li><a href="/" class="footer-single-link">Home</a></li>
-          <li><a href="works.html" class="nav-single-link">Works</a></li>
-          <li>
-            <a href="about-me.html" class="footer-single-link">About me</a>
-          </li>
-          <li><a href="contact.html" class="footer-single-link">Contact</a></li>
-        </ul>
-      </div>
-      <div class="footer-text">
-        <h5>
-          &copy; <span class="year"></span> Arul Prakassam.&nbsp;&nbsp;All
-          Rights Reserved
-        </h5>
-      </div>
-    </section>
-    <!-- footer section end -->
-
-    <!-- back to top start-->
-    <div class="back-to-top hidden">
-      <i class="fa-solid fa-arrow-up back-to-top-icon"></i>
+    <div>
+      <footer class="footer-section">
+        <div class="footer-content">
+          <h1>Follow me</h1>
+          <ul class="footer-social-icons">
+            <li>
+              <a href="https://www.switch2knowledge.com/" target="_blank">
+                <i class="fa fa-globe footer-social-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw"
+                target="_blank"
+              >
+                <i class="fab fa-youtube footer-social-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.linkedin.com/in/arul-prakassam"
+                target="_blank"
+              >
+                <i class="fa-brands fa-linkedin footer-social-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://github.com/ArulPrakassam" target="_blank">
+                <i class="fa-brands fa-github footer-social-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://twitter.com/ArulPrakassam" target="_blank">
+                <i class="fa-brands fa-square-x-twitter footer-social-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.quora.com/Arul-Prakassam-G" target="_blank">
+                <i class="fa-brands fa-quora footer-social-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.facebook.com/ArulPrakassam" target="_blank">
+                <i class="fa-brands fa-facebook footer-social-icon"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-credits">
+          <p>
+            &copy; <span class="year"></span> Arul Prakassam.&nbsp;&nbsp;All
+            Rights Reserved
+          </p>
+        </div>
+      </footer>
     </div>
-    <!-- back to top end -->
-
-    <!-- javascript -->
-    <script src="./Js/app.js"></script>
+    <script src="app.js"></script>
   </body>
 </html>
