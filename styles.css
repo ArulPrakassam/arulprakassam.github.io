@@ -479,15 +479,14 @@ a {
   color: white;
   font-weight: bold;
 }
-.one,
-.three {
+.right {
   background-color: var(--secondary);
   border-top-left-radius: 100px;
   border-bottom-left-radius: 100px;
   width: 100%;
   margin-left: 50px;
 }
-.two {
+.left {
   flex-direction: row-reverse;
   background-color: var(--primary);
   border-top-right-radius: 100px;
@@ -532,10 +531,10 @@ a {
   .skillset {
     justify-content: flex-start;
   }
-  .two {
+  .left {
     align-items: flex-end;
   }
-  .two .skillset {
+  .left .skillset {
     justify-content: flex-end;
   }
   .skill-item p {
