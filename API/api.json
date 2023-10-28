@@ -1,5 +1,11 @@
 [
   {
+    "title": "X (Twitter) Clone",
+    "link": "https://x-clone-twitter.netlify.app/",
+    "category": ["React"],
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1698481077/Arul/x-twitter-clone.jpg"
+  },
+  {
     "title": "Hungrezy",
     "link": "https://hungrezy-app.netlify.app/",
     "category": ["React"],
