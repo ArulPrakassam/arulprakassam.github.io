@@ -1,5 +1,11 @@
 [
   {
+    "title": "Task Management Dashboard",
+    "link": "https://react-task-management-dashboard.netlify.app/",
+    "category": ["React JS"],
+    "img": "https://res.cloudinary.com/dhxjitf9n/image/upload/v1686903321/Arul/reactjs-logo.png"
+  },
+  {
     "title": "X (Twitter) Clone",
     "link": "https://x-clone-twitter.netlify.app/",
     "category": ["React JS"],
